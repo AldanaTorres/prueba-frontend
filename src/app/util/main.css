@@ -1,0 +1,139 @@
+body{
+    background-color:#fff ;
+}
+/*NAV*/
+.app-header .nav-item .nav-link > .img-avatar, .app-header .nav-item .avatar.nav-link > img {
+    height: 25px;
+    margin: 0 10px;
+}
+.myClass {  
+    vertical-align: middle!important;
+}
+
+.dx-datagrid-rowsview .dx-row.dx-row-lines {
+    max-height: 15px;
+}
+
+.btn-primary {
+    color: #fff!important;
+    background-color: #20a8d8!important;
+    border-color: #20a8d8!important;
+}
+
+.pager {
+    place-content: center;
+}
+
+.pdf-style {
+    text-align: -webkit-center!important;
+}
+.card {
+    margin-bottom: 1.5rem;
+    border: none;
+    margin-top: 2em;
+}
+.float-title {
+    transition: 0.5s all;
+    position: fixed;
+    z-index: 3;
+    background-color: #20a8d8;
+    color: white;
+    right: 0;
+    top: 2em;
+    padding: 13px 22px;
+    box-shadow: 1px 1px 5px #959595;
+}
+.float-title:hover{
+    transform: translateX(20px);
+    transition: 0.5s all;
+}
+label {
+    color: #666;
+    font-weight: 600;
+}
+.btn-center {
+    text-align: center;
+    margin: 0 auto;
+}
+.search {
+    background-color: #20a8d8 !important;
+    margin: 0 1em;
+    padding: 0.8em 1.5em;
+    border:none;
+    transition: 0.5s all;
+}
+.search:hover {
+    box-shadow: 1px 1px 5px #959595;
+    transition: 0.5s all;
+}
+.erase{
+    background-color: #959595 !important;
+    margin: 0 1em;
+    padding: 0.8em 1.5em;
+    border:none;
+    transition: 0.5s all;
+}
+.erase:hover {
+    box-shadow: 1px 1px 5px #959595;
+    transition: 0.5s all;
+}
+.select-search__input { 
+    box-shadow: none !important;  
+}
+.dx-datagrid-headers {
+    color: white;
+    background-color: #20a8d8;
+}
+.button-grid{
+    color:  #20a8d8;
+}
+.txt-asociar{
+    color:  #20a8d8;
+    font-weight: 600;
+}
+.btn-secondary {
+    background-color: transparent;
+    border-color: transparent;
+}
+.btn-secondary:hover{
+    background-color: transparent;
+    border:transparent;
+}
+.back{
+    background-color:var(--celeste-principal);
+    color: white;
+    font-weight: 700;
+    position: fixed;
+    right: 0;
+    top: 4em;
+    z-index: 3;
+    box-shadow: -3px 0px 5px #c8ced39e;
+    border-radius: 0;
+}
+.back:hover{
+    color: #ffffffcb;
+    }
+.back:before{
+    content: url(../../assets/img/brand/back-icon.png) !important;
+}
+.back:hover:before{
+    opacity: 0.7;
+}
+.p-switch{
+    font-weight: 600;
+}
+.p-switch p {
+    display: contents;
+    margin-right: 25px;
+}
+.p-switch {
+    align-items: center;
+    display: flex;
+}
+.bg-gris{
+    background-color: #f8f8f8;
+}
+.switch-success .switch-input:checked + .switch-slider {
+    background-color: #20a8d8;
+    border-color: #20a8d8;
+}

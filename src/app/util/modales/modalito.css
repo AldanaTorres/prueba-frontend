@@ -1,0 +1,39 @@
+.modalInstructivo{
+    margin-left:10px;
+    margin-top: 5px;
+    
+}
+
+.modalFechaPago{
+    margin-top: 20%;
+    margin-left: 2%;
+   
+}
+
+.agregarServicio{
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 16px;
+    font-weight: 300;
+    color: white;
+    line-height: 40px;
+    position: relative;
+    -webkit-transition: color .4s,background-color .4s,border .4s;
+    -moz-transition: color .4s,background-color .4s,border .4s;
+    -ms-transition: color .4s,background-color .4s,border .4s;
+    transition: color .4s,background-color .4s,border .4s;
+    border: 1px solid #dbdcdd;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    margin-right: 10px;
+    padding-left: 55px;
+    padding-right: 55px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    background-color: #20a8d8;
+   
+    
+
+}

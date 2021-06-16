@@ -1,0 +1,4 @@
+export const ITEMS_PER_PAGE_10 = 10;
+export const ITEMS_PER_PAGE_ANEXO_PRESUPUESTARIO_CAUCES = 10;
+export const ITEMS_PER_PAGE_PRORRATA = 20;
+export const ITEMS_PER_PAGE = 20;
